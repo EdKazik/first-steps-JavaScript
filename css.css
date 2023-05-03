@@ -1,0 +1,13 @@
+h1 {
+  font-size: 64px;
+  line-height: 32px;
+  font-weight: 900;
+  color: rgba(238, 158, 10, 0.493);
+  text-shadow: 2px darkgray;
+}
+.box {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
